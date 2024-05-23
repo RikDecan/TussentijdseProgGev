@@ -1,0 +1,228 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Apps\\Racing.WPF.App\\Racing.WPF.App.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Apps\\Racing.WPF.App\\Racing.WPF.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Apps\\Racing.WPF.App\\Racing.WPF.App.csproj",
+        "projectName": "Racing.WPF.App",
+        "projectPath": "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Apps\\Racing.WPF.App\\Racing.WPF.App.csproj",
+        "packagesPath": "C:\\Users\\maite\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Apps\\Racing.WPF.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\maite\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows10.0.17763.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows10.0.17763": {
+            "targetAlias": "net8.0-windows10.0.17763.0",
+            "projectReferences": {
+              "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\Racing.Infrastructure\\Racing.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\Racing.Infrastructure\\Racing.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows10.0.17763": {
+          "targetAlias": "net8.0-windows10.0.17763.0",
+          "dependencies": {
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.17763.31, 10.0.17763.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\Racing.Infrastructure\\Racing.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\Racing.Infrastructure\\Racing.Infrastructure.csproj",
+        "projectName": "Racing.Infrastructure",
+        "projectPath": "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\Racing.Infrastructure\\Racing.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\maite\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\Racing.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\maite\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\SQLSupport\\Ado.Data.SqlServer.csproj": {
+                "projectPath": "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\SQLSupport\\Ado.Data.SqlServer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\SQLSupport\\Ado.Data.SqlServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\SQLSupport\\Ado.Data.SqlServer.csproj",
+        "projectName": "Ado.Data.SqlServer",
+        "projectPath": "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\SQLSupport\\Ado.Data.SqlServer.csproj",
+        "packagesPath": "C:\\Users\\maite\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\SQLSupport\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\maite\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
