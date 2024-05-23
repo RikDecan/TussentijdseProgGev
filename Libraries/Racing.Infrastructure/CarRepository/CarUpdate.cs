@@ -17,7 +17,7 @@ namespace Races.Db.DriverRepository
         #endregion
 
         #region Methods
-        private void SetSqlCommandParameter(SqlCommand sqlCommand, Car car)
+        private void SetSqlCommandParameter(SqlCommand sqlCommand, Cars car)
         {
             sqlCommand.Parameters.AddWithValue("@CarsId", car.CarsId);
             sqlCommand.Parameters.AddWithValue("@Name", car.Name);
@@ -29,7 +29,7 @@ namespace Races.Db.DriverRepository
 
         
 
-        public virtual void ByMaxSpeed(Car car)
+        public virtual void ByMaxSpeed(Cars car)
         {
             using (SqlCommand sqlCommand = new())
             {
@@ -39,7 +39,7 @@ namespace Races.Db.DriverRepository
             }
         }
 
-        public virtual void ByCc(Car car)
+        public virtual void ByCc(Cars car)
         {
             using (SqlCommand sqlCommand = new())
             {
@@ -48,7 +48,7 @@ namespace Races.Db.DriverRepository
                 _table.DbAccess.Commands.Add(sqlCommand);
             }
         }
-        public virtual void ByRegistrationDate(Car car)
+        public virtual void ByRegistrationDate(Cars car)
         {
             using (SqlCommand sqlCommand = new())
             {
@@ -58,7 +58,7 @@ namespace Races.Db.DriverRepository
             }
         }
 
-        public void ByCarId(Car car)
+        public void ByCarId(Cars car)
         {
             using (SqlCommand sqlCommand = new())
             {

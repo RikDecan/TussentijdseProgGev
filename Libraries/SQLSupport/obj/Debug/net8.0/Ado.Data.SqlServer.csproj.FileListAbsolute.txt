@@ -11,3 +11,16 @@ C:\Users\maite\OneDrive - Hogeschool Gent\Documenten\voorbereiding-tussentijdse-
 C:\Users\maite\OneDrive - Hogeschool Gent\Documenten\voorbereiding-tussentijdse-opdracht-MaitendoDS\Libraries\SQLSupport\obj\Debug\net8.0\refint\Ado.Data.SqlServer.dll
 C:\Users\maite\OneDrive - Hogeschool Gent\Documenten\voorbereiding-tussentijdse-opdracht-MaitendoDS\Libraries\SQLSupport\obj\Debug\net8.0\Ado.Data.SqlServer.pdb
 C:\Users\maite\OneDrive - Hogeschool Gent\Documenten\voorbereiding-tussentijdse-opdracht-MaitendoDS\Libraries\SQLSupport\obj\Debug\net8.0\ref\Ado.Data.SqlServer.dll
+C:\Users\Rik\Documents\GitHub\TussentijdseProgGev\Libraries\SQLSupport\bin\Debug\net8.0\Ado.Data.SqlServer.deps.json
+C:\Users\Rik\Documents\GitHub\TussentijdseProgGev\Libraries\SQLSupport\bin\Debug\net8.0\Ado.Data.SqlServer.dll
+C:\Users\Rik\Documents\GitHub\TussentijdseProgGev\Libraries\SQLSupport\bin\Debug\net8.0\Ado.Data.SqlServer.pdb
+C:\Users\Rik\Documents\GitHub\TussentijdseProgGev\Libraries\SQLSupport\obj\Debug\net8.0\Ado.Data.SqlServer.csproj.AssemblyReference.cache
+C:\Users\Rik\Documents\GitHub\TussentijdseProgGev\Libraries\SQLSupport\obj\Debug\net8.0\Ado.Data.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rik\Documents\GitHub\TussentijdseProgGev\Libraries\SQLSupport\obj\Debug\net8.0\Ado.Data.SqlServer.AssemblyInfoInputs.cache
+C:\Users\Rik\Documents\GitHub\TussentijdseProgGev\Libraries\SQLSupport\obj\Debug\net8.0\Ado.Data.SqlServer.AssemblyInfo.cs
+C:\Users\Rik\Documents\GitHub\TussentijdseProgGev\Libraries\SQLSupport\obj\Debug\net8.0\Ado.Data.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Rik\Documents\GitHub\TussentijdseProgGev\Libraries\SQLSupport\obj\Debug\net8.0\Ado.Data.SqlServer.sourcelink.json
+C:\Users\Rik\Documents\GitHub\TussentijdseProgGev\Libraries\SQLSupport\obj\Debug\net8.0\Ado.Data.SqlServer.dll
+C:\Users\Rik\Documents\GitHub\TussentijdseProgGev\Libraries\SQLSupport\obj\Debug\net8.0\refint\Ado.Data.SqlServer.dll
+C:\Users\Rik\Documents\GitHub\TussentijdseProgGev\Libraries\SQLSupport\obj\Debug\net8.0\Ado.Data.SqlServer.pdb
+C:\Users\Rik\Documents\GitHub\TussentijdseProgGev\Libraries\SQLSupport\obj\Debug\net8.0\ref\Ado.Data.SqlServer.dll

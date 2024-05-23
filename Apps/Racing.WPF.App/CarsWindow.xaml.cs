@@ -65,7 +65,7 @@ namespace Generic.Host.WPF.App
         {
             try
             {
-                var carRow = CarsDg.SelectedItem as Car;
+                var carRow = CarsDg.SelectedItem as Cars;
                 var car = _repository.Driver.Query.ByCarsId(carRow.CarsId).Single();
                 car.MaxSpeed = carRow.MaxSpeed;
                 car.Cc = carRow.Cc;

@@ -17,7 +17,7 @@ namespace Races.Db.DriverRepository
         #endregion
 
         #region Methods
-        public void NewRecord(Car car)
+        public void NewRecord(Cars car)
         {
             using (SqlCommand sqlCommand = new())
             {

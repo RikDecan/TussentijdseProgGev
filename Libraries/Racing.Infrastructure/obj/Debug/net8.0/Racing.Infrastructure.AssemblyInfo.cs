@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Racing.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+622ebfce7c78f52344fdfd99c9d3a555737c0987")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc1d71d66891cabd998f1a926db86b60638cb79d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Racing.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Racing.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

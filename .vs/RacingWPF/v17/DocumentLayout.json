@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04272A58-ABCE-48EB-A9B6-1E19CB92BE3A}|Apps\\Racing.WPF.App\\Racing.WPF.App.csproj|c:\\users\\rik\\documents\\github\\tussentijdseproggev\\apps\\racing.wpf.app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04272A58-ABCE-48EB-A9B6-1E19CB92BE3A}|Apps\\Racing.WPF.App\\Racing.WPF.App.csproj|solutionrelative:apps\\racing.wpf.app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04272A58-ABCE-48EB-A9B6-1E19CB92BE3A}|Apps\\Racing.WPF.App\\Racing.WPF.App.csproj|c:\\users\\rik\\documents\\github\\tussentijdseproggev\\apps\\racing.wpf.app\\carswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04272A58-ABCE-48EB-A9B6-1E19CB92BE3A}|Apps\\Racing.WPF.App\\Racing.WPF.App.csproj|solutionrelative:apps\\racing.wpf.app\\carswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ED216B-0EE7-46BE-9666-154B583C3573}|Libraries\\Racing.Infrastructure\\Racing.Infrastructure.csproj|c:\\users\\rik\\documents\\github\\tussentijdseproggev\\libraries\\racing.infrastructure\\carrepository\\carupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ED216B-0EE7-46BE-9666-154B583C3573}|Libraries\\Racing.Infrastructure\\Racing.Infrastructure.csproj|solutionrelative:libraries\\racing.infrastructure\\carrepository\\carupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ED216B-0EE7-46BE-9666-154B583C3573}|Libraries\\Racing.Infrastructure\\Racing.Infrastructure.csproj|c:\\users\\rik\\documents\\github\\tussentijdseproggev\\libraries\\racing.infrastructure\\driverrepository\\driverquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ED216B-0EE7-46BE-9666-154B583C3573}|Libraries\\Racing.Infrastructure\\Racing.Infrastructure.csproj|solutionrelative:libraries\\racing.infrastructure\\driverrepository\\driverquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ED216B-0EE7-46BE-9666-154B583C3573}|Libraries\\Racing.Infrastructure\\Racing.Infrastructure.csproj|c:\\users\\rik\\documents\\github\\tussentijdseproggev\\libraries\\racing.infrastructure\\carrepository\\carquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ED216B-0EE7-46BE-9666-154B583C3573}|Libraries\\Racing.Infrastructure\\Racing.Infrastructure.csproj|solutionrelative:libraries\\racing.infrastructure\\carrepository\\carquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ED216B-0EE7-46BE-9666-154B583C3573}|Libraries\\Racing.Infrastructure\\Racing.Infrastructure.csproj|c:\\users\\rik\\documents\\github\\tussentijdseproggev\\libraries\\racing.infrastructure\\carrepository\\carinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ED216B-0EE7-46BE-9666-154B583C3573}|Libraries\\Racing.Infrastructure\\Racing.Infrastructure.csproj|solutionrelative:libraries\\racing.infrastructure\\carrepository\\carinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Apps\\Racing.WPF.App\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Apps\\Racing.WPF.App\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Apps\\Racing.WPF.App\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Apps\\Racing.WPF.App\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAjwK4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:07:11.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Apps\\Racing.WPF.App\\CarsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Apps\\Racing.WPF.App\\CarsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Apps\\Racing.WPF.App\\CarsWindow.xaml.cs",
+              "RelativeToolTip": "Apps\\Racing.WPF.App\\CarsWindow.xaml.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAArwEMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:06:46.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DriverQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\Racing.Infrastructure\\DriverRepository\\DriverQuery.cs",
+              "RelativeDocumentMoniker": "Libraries\\Racing.Infrastructure\\DriverRepository\\DriverQuery.cs",
+              "ToolTip": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\Racing.Infrastructure\\DriverRepository\\DriverQuery.cs",
+              "RelativeToolTip": "Libraries\\Racing.Infrastructure\\DriverRepository\\DriverQuery.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAnwJsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:05:55.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\Racing.Infrastructure\\CarRepository\\CarUpdate.cs",
+              "RelativeDocumentMoniker": "Libraries\\Racing.Infrastructure\\CarRepository\\CarUpdate.cs",
+              "ToolTip": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\Racing.Infrastructure\\CarRepository\\CarUpdate.cs",
+              "RelativeToolTip": "Libraries\\Racing.Infrastructure\\CarRepository\\CarUpdate.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAjwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:05:23.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\Racing.Infrastructure\\CarRepository\\CarQuery.cs",
+              "RelativeDocumentMoniker": "Libraries\\Racing.Infrastructure\\CarRepository\\CarQuery.cs",
+              "ToolTip": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\Racing.Infrastructure\\CarRepository\\CarQuery.cs",
+              "RelativeToolTip": "Libraries\\Racing.Infrastructure\\CarRepository\\CarQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:04:48.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarInsert.cs",
+              "DocumentMoniker": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\Racing.Infrastructure\\CarRepository\\CarInsert.cs",
+              "RelativeDocumentMoniker": "Libraries\\Racing.Infrastructure\\CarRepository\\CarInsert.cs",
+              "ToolTip": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\Racing.Infrastructure\\CarRepository\\CarInsert.cs",
+              "RelativeToolTip": "Libraries\\Racing.Infrastructure\\CarRepository\\CarInsert.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:04:32.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

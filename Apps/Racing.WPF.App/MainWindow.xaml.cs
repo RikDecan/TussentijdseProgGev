@@ -55,7 +55,7 @@ namespace Generic.Host.WPF.App
             /*List<UserType>*/
             var userTypes = _repository.UserType.Query.All();
              List<Race> races = _repository.Race.Query.All();
-            List<Car> cars = _repository.Car.Query.All();
+            List<Cars> cars = _repository.Car.Query.All();
 
             List<UserDTO> ownUsers = ReadUsersUsingReader();
 
@@ -172,7 +172,7 @@ namespace Generic.Host.WPF.App
             var row = e.Source as DataGridRow;
             if (row != null)
             {
-                var car = row.DataContext as Car;
+                var car = row.DataContext as Cars;
                 if (car != null)
                 {
 

@@ -2474,19 +2474,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\maite\\.nuget\\packages\\": {}
+    "C:\\Users\\Rik\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Apps\\Racing.WPF.App\\Racing.WPF.App.csproj",
+      "projectUniqueName": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Apps\\Racing.WPF.App\\Racing.WPF.App.csproj",
       "projectName": "Racing.WPF.App",
-      "projectPath": "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Apps\\Racing.WPF.App\\Racing.WPF.App.csproj",
-      "packagesPath": "C:\\Users\\maite\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Apps\\Racing.WPF.App\\obj\\",
+      "projectPath": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Apps\\Racing.WPF.App\\Racing.WPF.App.csproj",
+      "packagesPath": "C:\\Users\\Rik\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Apps\\Racing.WPF.App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\maite\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rik\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2500,8 +2500,8 @@
         "net8.0-windows10.0.17763": {
           "targetAlias": "net8.0-windows10.0.17763.0",
           "projectReferences": {
-            "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\Racing.Infrastructure\\Racing.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\Racing.Infrastructure\\Racing.Infrastructure.csproj"
+            "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\Racing.Infrastructure\\Racing.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\Racing.Infrastructure\\Racing.Infrastructure.csproj"
             }
           }
         }

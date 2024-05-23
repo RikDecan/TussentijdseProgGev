@@ -18,14 +18,14 @@ namespace Races.Db.DriverRepository
         #endregion
 
         #region Methods
-        private List<Car> ToList(SqlCommand sqlCommand)
+        private List<Cars> ToList(SqlCommand sqlCommand)
         {
             var dt = _table.DbAccess.GetDataTable(sqlCommand);
 
-            List<Car> list = [];
+            List<Cars> list = [];
             foreach (DataRow dataRow in dt.Rows)
             {
-                Car car = new()
+                Cars car = new()
                 {
                    
                     CarsId = (int)dataRow["CarsId"],
@@ -41,7 +41,7 @@ namespace Races.Db.DriverRepository
             return list;
         }
 
-        public List<Car> ToList(string sql)
+        public List<Cars> ToList(string sql)
         {
             return ToList(new SqlCommand(sql));
         }
@@ -65,7 +65,7 @@ namespace Races.Db.DriverRepository
             }
         }
 
-        public List<Car> All()
+        public List<Cars> All()
         {
             using (SqlCommand sqlCommand = new())
             {
@@ -74,7 +74,7 @@ namespace Races.Db.DriverRepository
             }
         }
 
-        public List<Car> ByKeyword(string keyword, int start, int end, string orderByColumnName, string orderDirection = "ASC")
+        public List<Cars> ByKeyword(string keyword, int start, int end, string orderByColumnName, string orderDirection = "ASC")
         {
             using (SqlCommand sqlCommand = new())
             {
@@ -86,7 +86,7 @@ namespace Races.Db.DriverRepository
             }
         }
 
-        public Car? ByPrimaryKey(int carsId)
+        public Cars? ByPrimaryKey(int carsId)
         {
             using (SqlCommand sqlCommand = new())
             {
@@ -101,7 +101,7 @@ namespace Races.Db.DriverRepository
             }
         }
 
-        public List<Car> ByCarsId(int carsId)
+        public List<Cars> ByCarsId(int carsId)
         {
             using (SqlCommand sqlCommand = new())
             {
@@ -111,7 +111,7 @@ namespace Races.Db.DriverRepository
             }
         }
 
-        public List<Car> ByName(string Name)
+        public List<Cars> ByName(string Name)
         {
             using (SqlCommand sqlCommand = new())
             {
@@ -121,7 +121,7 @@ namespace Races.Db.DriverRepository
             }
         }
 
-        public List<Car> ByMaxSpeed(int MaxSpeed)
+        public List<Cars> ByMaxSpeed(int MaxSpeed)
         {
             using (SqlCommand sqlCommand = new())
             {
@@ -130,7 +130,7 @@ namespace Races.Db.DriverRepository
                 return ToList(sqlCommand);
             }
         }
-        public List<Car> ByCc(int Cc)
+        public List<Cars> ByCc(int Cc)
         {
             using (SqlCommand sqlCommand = new())
             {
@@ -140,7 +140,7 @@ namespace Races.Db.DriverRepository
             }
         }
 
-        public List<Car> ByRegistrationDate(DateTime RegistrationDate)
+        public List<Cars> ByRegistrationDate(DateTime RegistrationDate)
         {
             using (SqlCommand sqlCommand = new())
             {
@@ -149,7 +149,7 @@ namespace Races.Db.DriverRepository
                 return ToList(sqlCommand);
             }
         }
-        public List<Car> ByDriverId(int DriverId)
+        public List<Cars> ByDriverId(int DriverId)
         {
             using (SqlCommand sqlCommand = new())
             {

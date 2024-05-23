@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\SQLSupport\\Ado.Data.SqlServer.csproj": {}
+    "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\SQLSupport\\Ado.Data.SqlServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\SQLSupport\\Ado.Data.SqlServer.csproj": {
+    "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\SQLSupport\\Ado.Data.SqlServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\SQLSupport\\Ado.Data.SqlServer.csproj",
+        "projectUniqueName": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\SQLSupport\\Ado.Data.SqlServer.csproj",
         "projectName": "Ado.Data.SqlServer",
-        "projectPath": "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\SQLSupport\\Ado.Data.SqlServer.csproj",
-        "packagesPath": "C:\\Users\\maite\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\SQLSupport\\obj\\",
+        "projectPath": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\SQLSupport\\Ado.Data.SqlServer.csproj",
+        "packagesPath": "C:\\Users\\Rik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\SQLSupport\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\maite\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

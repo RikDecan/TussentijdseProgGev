@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\Racing.Infrastructure\\Racing.Infrastructure.csproj": {}
+    "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\Racing.Infrastructure\\Racing.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\Racing.Infrastructure\\Racing.Infrastructure.csproj": {
+    "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\Racing.Infrastructure\\Racing.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\Racing.Infrastructure\\Racing.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\Racing.Infrastructure\\Racing.Infrastructure.csproj",
         "projectName": "Racing.Infrastructure",
-        "projectPath": "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\Racing.Infrastructure\\Racing.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\maite\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\Racing.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\Racing.Infrastructure\\Racing.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Rik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\Racing.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\maite\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\SQLSupport\\Ado.Data.SqlServer.csproj": {
-                "projectPath": "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\SQLSupport\\Ado.Data.SqlServer.csproj"
+              "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\SQLSupport\\Ado.Data.SqlServer.csproj": {
+                "projectPath": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\SQLSupport\\Ado.Data.SqlServer.csproj"
               }
             }
           }
@@ -68,17 +68,17 @@
         }
       }
     },
-    "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\SQLSupport\\Ado.Data.SqlServer.csproj": {
+    "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\SQLSupport\\Ado.Data.SqlServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\SQLSupport\\Ado.Data.SqlServer.csproj",
+        "projectUniqueName": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\SQLSupport\\Ado.Data.SqlServer.csproj",
         "projectName": "Ado.Data.SqlServer",
-        "projectPath": "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\SQLSupport\\Ado.Data.SqlServer.csproj",
-        "packagesPath": "C:\\Users\\maite\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maite\\OneDrive - Hogeschool Gent\\Documenten\\voorbereiding-tussentijdse-opdracht-MaitendoDS\\Libraries\\SQLSupport\\obj\\",
+        "projectPath": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\SQLSupport\\Ado.Data.SqlServer.csproj",
+        "packagesPath": "C:\\Users\\Rik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rik\\Documents\\GitHub\\TussentijdseProgGev\\Libraries\\SQLSupport\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\maite\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
